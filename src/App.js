@@ -1,25 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
+import { BrowserRouter } from 'react-router-dom';
+import { Layout } from 'antd';
+import 'antd/dist/antd.css';
+import Routes from './routes';
+import { SideMenu, TopBar } from './components';
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <BrowserRouter>
+      <Layout>
+        <TopBar />
+        <Layout className="container">
+          <SideMenu />
+          <Routes />
+        </Layout>
+      </Layout>
+    </BrowserRouter>
   );
 }
 

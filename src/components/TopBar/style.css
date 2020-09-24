@@ -1,0 +1,23 @@
+.header {
+  display: flex;
+  padding: 0;
+  background-color: #01437b;
+}
+
+.header-inner {
+  display: flex;
+  align-items: center;
+}
+
+.header-logo {
+  display: flex;
+  height: 100%;
+  padding-top: 4px;
+  padding-bottom: 4px;
+}
+
+.header-title {
+  max-width: 350px;
+  line-height: 21px;
+  color: #fff;
+}
