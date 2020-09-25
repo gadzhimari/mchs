@@ -9,7 +9,7 @@ import './App.css';
 function App() {
   return (
     <BrowserRouter>
-      <Layout>
+      <Layout className="page">
         <TopBar />
         <Layout className="container">
           <SideMenu />

@@ -1,3 +1,11 @@
+img {
+  max-width: 100%;
+}
+
+.page {
+  height: 100vh;
+}
+
 .container {
   width: 100%;
   max-width: 1180px;
@@ -5,6 +13,27 @@
   margin-right: auto;
 }
 
-img {
-  max-width: 100%;
+.article-wrapper {
+  padding: 0 24px 24px;
+}
+
+.article {
+  padding: 24px;
+  background-color: #fff;
+  min-height: auto !important;
+}
+
+.article-title {
+  font-size: 24px;
+}
+
+.article-body {
+  font-size: 16px;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
 }

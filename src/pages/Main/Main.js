@@ -7,17 +7,10 @@ const { Content } = Layout;
 
 const Main = () => {
   return (
-    <Layout style={{ padding: '0 24px 24px' }}>
-      <Content
-        className="site-layout-background"
-        style={{
-          padding: 24,
-          margin: 0,
-          minHeight: 280,
-        }}
-      >
+    <Layout className="article-wrapper">
+      <Content className="article">
         <h1 className="article-title">О центре</h1>
-        <div className="article-body">{article}</div>
+        <div className="article-body" dangerouslySetInnerHTML={{ __html: article }} />
       </Content>
     </Layout>
   );
