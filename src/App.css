@@ -23,8 +23,26 @@ img {
   min-height: auto !important;
 }
 
+.article-item {
+  display: block;
+  margin-bottom: 16px;
+}
+
+.article-item:hover .article-item-title {
+  color: #1890ff;
+}
+
 .article-title {
   font-size: 24px;
+}
+
+.article-item-title {
+  font-size: 20px;
+  line-height: 22px;
+}
+
+.article-description {
+  color: rgba(0, 0, 0, 0.45);
 }
 
 .article-body {

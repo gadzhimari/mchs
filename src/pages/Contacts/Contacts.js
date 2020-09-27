@@ -18,13 +18,11 @@ const tailLayout = {
 const Contacts = () => {
   const [form] = Form.useForm();
 
-  const handleSubmit = (values) => {
-    console.log('values ', values);
-  };
+  const handleSubmit = (values) => {};
 
   const renderPhones = () => {
     return contact.phones.map((phone) => (
-      <div className="addressItem">
+      <div className="addressItem" key={phone.name}>
         <span className="addressName">{`${phone.name}:`}</span>{' '}
         <a href={`tel:${phone.value}`}>{phone.value}</a>
       </div>
