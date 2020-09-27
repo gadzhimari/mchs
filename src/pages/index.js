@@ -1,3 +1,4 @@
+export { default as Contacts } from './Contacts';
 export { default as Documents } from './Documents';
 export { default as Main } from './Main';
 export { default as Personal } from './Personal';
