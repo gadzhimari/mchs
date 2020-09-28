@@ -9,7 +9,7 @@ const Main = () => {
   return (
     <Layout className="article-wrapper">
       <Content className="article">
-        <h1 className="article-title">О центре</h1>
+        <h1 className="article-title">История</h1>
         <div className="article-body" dangerouslySetInnerHTML={{ __html: article }} />
       </Content>
     </Layout>

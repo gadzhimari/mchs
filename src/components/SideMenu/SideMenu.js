@@ -20,6 +20,9 @@ const SideMenu = () => {
           <Link to="/">Главная</Link>
         </Menu.Item>
         <SubMenu key="about" title="О центре">
+          <Menu.Item key="/equipment">
+            <Link to="/equipment">Оснащение</Link>
+          </Menu.Item>
           <Menu.Item key="/documents">
             <Link to="/documents">Документы</Link>
           </Menu.Item>
