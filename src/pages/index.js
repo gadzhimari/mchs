@@ -1,6 +1,7 @@
 export { default as Contacts } from './Contacts';
 export { default as Documents } from './Documents';
 export { default as Equipment } from './Equipment';
+export { default as EquipmentItem } from './EquipmentItem';
 export { default as Main } from './Main';
 export { default as News } from './News';
 export { default as NewsItem } from './NewsItem';

@@ -2,6 +2,15 @@ img {
   max-width: 100%;
 }
 
+ul li {
+  font-size: 16px;
+}
+
+p {
+  font-size: 16px;
+  margin-bottom: 8px;
+}
+
 .page {
   height: 100vh;
 }
@@ -54,6 +63,10 @@ img {
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   overflow: hidden;
+}
+
+.article-image {
+  margin-bottom: 16px;
 }
 
 .article-body {

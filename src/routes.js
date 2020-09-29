@@ -1,6 +1,16 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
-import { Main, Documents, Personal, Tutors, Contacts, News, NewsItem, Equipment } from 'pages';
+import {
+  Main,
+  Documents,
+  Personal,
+  Tutors,
+  Contacts,
+  News,
+  NewsItem,
+  Equipment,
+  EquipmentItem,
+} from 'pages';
 
 export default () => (
   <Switch>
@@ -27,6 +37,9 @@ export default () => (
     </Route>
     <Route path="/equipment" exact>
       <Equipment />
+    </Route>
+    <Route path="/equipment/:id" exact>
+      <EquipmentItem />
     </Route>
   </Switch>
 );
