@@ -3,35 +3,36 @@ export const categories = [
     id: 'territory',
     title: 'Территория',
     imageUrl:
-      'https://downloader.disk.yandex.ru/preview/0829a90503bee33cddea79bc2fd303baeb0c76fb6b65aa797a45c60bdbc575fe/5f730d39/tCfAQGaBaS3Hc8GDijtDdElTZ3zb6uXkQR-RdIj-MjVgN6xG4SnDe8xv8jiMXwpQLYu9JOo0q-316bx03P3INA==?uid=0&filename=territory.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=562256226&size=2048x2048',
+      'https://previews.dropbox.com/p/thumb/AA57er14y4A3BGdWlSGtqbr44smoHOTauU3Ts5EC5XydYsiHmeto7b1-UnSv0N50cq-g2doTgk5T18Pei6uvyZuvnpT-UGgm5pL1x5dA8kTt_ITfnT1UZ3PTq05JoeTs6gLBxv9peA1GI3CZSZYmEp7cCkw-_mc04TzzLfILPuY9dXK_Kr6jATv8AWcxVpW2nHt1BViHMb60CTuK9aLBMdOe-ukuyUY3Z0cn3trdXRV0b7UREo3jDur65LsRtPLtgv1SwDA1UglDIc4BPRYs4o3RCSEnQ-LmqKSFcAgari4TGeSc1HmEDeumTdbuyuR0PPPs9Qm_vfNPI0jn0Z4JTupheEq55K22gsnJVoXvEeFOz0rWOviztw0xhRRXBmMNtPIFsmBURm2lvzirrEM06FlHVSSTUYbT2mvTzkZ1vCR5pw/p.jpeg?fv_content=true&size_mode=5',
   },
   {
     id: 'class',
     title: 'Учебные классы',
     imageUrl:
-      'https://downloader.disk.yandex.ru/preview/f89859df1375d25b5d15d53c83a7e92e376240cd393bb527e5a16976f5bec811/5f730d53/0ek6YHodL4BCjjNDQx_ojY3vUIweN5An8ljirV2zoxn3j5WaKrh8fNThpw2ASaFifT8LbISKtBI6CrsttOFi3w==?uid=0&filename=class.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=562256226&size=2048x2048',
+      'https://previews.dropbox.com/p/thumb/AA5l46O03ASvFo-9LxyjoeTM5VXV-0uXFHboqO9NCnmReQ8iVB6lhfEA61AdMekhgbObMR-aE_nZ5s-DWdgr04hkq9skreKtHbcdZDhoyBU2CnLM15e5_XyCSji75FMEPeqzOV83HT00NXwL-X-EgSsupYK-JITiNOB0tlaxADIlT4WoDn21UFee6JlN0STaGYPeCyuLSlzMbxf4qJhjmO-RzWDMpwMse1iwY33vnBFMzRu3oOWvo9xxSXak5bHeRZQfjdiaTPBmJfA6wp71swLm6bDHOKW6CG47FzI1Rz12tny5yRDw6ynMFKKGlpgznAnET9aism1ln_Nbn3mBCHYEgb_YErGWjNZzvlJVICBOHQ/p.jpeg?fv_content=true&size_mode=5',
   },
   {
     id: 'training-complex',
     title: 'Учебно-тренировочный комплекс',
     imageUrl:
-      'https://downloader.disk.yandex.ru/preview/76a407281b3a97ea1c24b3d31a7b78a6657c4453697bbba84e533eb296f3c20d/5f730d6a/9mb6xP2y295o5Ae2flxeobhNMXaGK8gw9fh7ZiEXLwqFCz37OmqCFseMGKJxKLzma61ZmRae9joRdXI96LcrwQ==?uid=0&filename=training-complex.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=562256226&size=2048x2048',
+      'https://previews.dropbox.com/p/thumb/AA4zXYdaDYI1g4titsY1sGNGJLR2i6YJsGu9TZT1fFy16J8vukQcDp4qF5XfLtujrc1gdAqFwmq7vP9O4SGh4PNek1toXH983cj25jD3LWeM7OMglt-9qTIgS3f5HKEgiZsvlPnA2c7QDmDr8UD4Mac1LhynzzwLKHoWew1I_3hnks1iDcJkYIDKxEXXUB3XodlEW5tZJIw9WfM9GV2Y6FipW_YsNaRaIemXL4CviZUvPE2SKR9gn-Ifn6xxirHojeInjGCqXI7dOv8wvfD_dy4Kljt0fj4idUkBEjXqRJQFaMXLynzd_X44y1VZabIR3FAngexYQprvOaaKxLV6VRaEMNwoIgbkmzwdjrEPJUSTFVVHhMDbf1uapv_k0WedHYI7_VpbZfQYDjLe53QbbPxy0Kgm8sRG3mpsQEWgU0lLaA/p.jpeg?size=2048x1536&size_mode=3',
   },
   {
     id: 'fire-station',
     title: 'Пожарное депо',
     imageUrl:
-      'https://downloader.disk.yandex.ru/preview/88b3c7158450dc48725140f03c7bc8d02595d5577596fa91253be2eb8531532f/5f730d80/SGy-TOA6zD0r9HDfVYHZmEbIGPgBB9lYqinEpglwUAf-RkCwLnnh6LLBkmecxMzdugrUc6fkmWds8CdDyEBfQw==?uid=0&filename=fire-station.JPG&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=562256226&size=2048x2048',
+      'https://previews.dropbox.com/p/thumb/AA4fHTOqvPayn9YFHH_H9n8p-tT3-jRoeiP7llGn7Hrq5pFoWkyYC1VryT1YEZMuQ5YO1g8eD8iaT2wsYnNUZpfqJE1tbVvIAJuWb6HUhFSZWPeBAvTrTTAmUIzL8fbkwk8g9wSU4Vp5OI76WNwuR8rYkJ4wtx5VQdI6xzX2zkMH8_SLoQGZBuzDyMuGjWJTVHqrxe17RfjEbJc83WTvdvrevNcLZFoEE3AQnwuddMCi2hlHrzdtJKdXNwCUTCc88kq9I89xBo4reXkjdLfmbpW3oCMcCrc7vAW-mEcEG4RADfzWs2K3KUUU16TY3dTsysW2UQx7Cd3-sjQdQmSVrFqoWc7svc4Xx33jG44rADAeZg/p.jpeg?size=2048x1536&size_mode=3',
   },
   {
     id: 'dining-room',
     title: 'Столовая',
-    imageUrl: 'https://drive.google.com/file/d/1LKhM44a0C620zQYuNMzhKZYGoV2K3x6b/view',
+    imageUrl:
+      'https://previews.dropbox.com/p/thumb/AA6Cdg6TuQFgUv3qM1ICCmxoZgjQWWpiQk4H0jt9jvEbMSxIKw8uFs-l4ZfoX_5D5wxaIh1visIPoTwsKo3upCnUwzAQA80TMbR1RdYWn-5-4CT6SuumULJZLwPPjgU3BFgiPlAzGh9uyxsyS026CBnYI2fZqeKSy6weAVpmGI_2GPTHXxzQqTEHBRYe9F3d34P-ziGYeKWj79x68zllNuGODXJC_o8OE1v0LkAXWjxz3Miam8wo_hj3hMSTotM0ZX_F94TIsjzQKrlUuGc4aOoF_7_vdbYE0gji_S1UbzSZZvHH7nSqoGoRTl15Q38eqHUKqZLZl6mb4cj44GKmcmQppJ80CN1_-g-lYlqLImrQEA/p.jpeg?fv_content=true&size_mode=5',
   },
   {
     id: 'hostel',
     title: 'Общежитие',
     imageUrl:
-      'https://downloader.disk.yandex.ru/preview/94310db4e01f9823b5bf373a56b3de812a0636845833ad8af8cf7d2946c0b06f/5f730da2/Mbqbjbx4MzqnW2zSSU-BAanRW7A209HSC0AYm0kW0iuR7ID0zEtSsN3ekFx8YJZjlCxv02_L0zPnwCxQLzeEZA==?uid=0&filename=hostel.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=562256226&size=2048x2048',
+      'https://previews.dropbox.com/p/thumb/AA6drMQuuDwcUAxyoTsoi0IrEjXMha1Vn5-QrAlJadh8a-VRkXpiUtwYsGgKEz4jtfxW6PdXlaQhlngraqlxdCKT69_A4fjF_NUKRJtwEZbu3C0H8dx6f1MLbjzribHkNcXyZvix0xcKZKnCgeYqTgA9it26XDFFqcFaTXY7KxHbIQwDvv5CmeNT7iCK2P9C3049_9G6xhG2lnpFl5Byy1ZY4Afo8U57scEDmZAuRL6EgtpNvR4R4hlDBmpQYJfRYMzz3ih3hH3ID3nIHgk16rqCadDXcpuk2CNlLrfOX4LXFu0l8skB0a6pVrMsvssIheAE593aNrs6KsslQpWRgWB0-4B8c4Pq3reItqOk6riNSg/p.jpeg?fv_content=true&size_mode=5',
   },
 ];
