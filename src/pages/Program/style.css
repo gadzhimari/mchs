@@ -1,0 +1,7 @@
+.program th:first-child {
+  width: 80px;
+}
+
+.program th:last-child {
+  width: 140px;
+}

@@ -26,8 +26,7 @@ export const categories = [
   {
     id: 'dining-room',
     title: 'Столовая',
-    imageUrl:
-      'https://downloader.disk.yandex.ru/preview/78c66152c5a58bf7a9aa2670bc057080838b0f32bbeaee8b2389ebc1bee317f9/5f730d93/Yn4jqv2pezGzNvfNHZM5OTTyNqw3KHLRC6hg09SEAmXxPcq6KAX56GOZXf-q1EWb11_ijkInYxbYCFHDvYJHSw==?uid=0&filename=dining-room.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&tknv=v2&owner_uid=562256226&size=2048x2048',
+    imageUrl: 'https://drive.google.com/file/d/1LKhM44a0C620zQYuNMzhKZYGoV2K3x6b/view',
   },
   {
     id: 'hostel',

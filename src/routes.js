@@ -10,6 +10,7 @@ import {
   NewsItem,
   Equipment,
   EquipmentItem,
+  Program,
 } from 'pages';
 
 export default () => (
@@ -40,6 +41,9 @@ export default () => (
     </Route>
     <Route path="/equipment/:id" exact>
       <EquipmentItem />
+    </Route>
+    <Route path="/program" exact>
+      <Program />
     </Route>
   </Switch>
 );
