@@ -25,7 +25,11 @@ const Tutors = () => {
                 cover={<img alt={personal.fio} src={personal.imageUrl} />}
                 bodyStyle={{ padding: 12 }}
               >
-                <Meta description={personal.title} />
+                <Meta
+                  className="personal-title"
+                  title={personal.fio}
+                  description={personal.title}
+                />
               </Card>
             </Col>
           );

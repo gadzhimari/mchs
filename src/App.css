@@ -112,3 +112,11 @@ tbody > tr > td {
   -webkit-transition: background 0.3s;
   transition: background 0.3s;
 }
+
+.personal-title .ant-card-meta-title {
+  font-size: 15px;
+  line-height: 18px;
+  white-space: normal;
+  text-align: center;
+  overflow: visible;
+}
