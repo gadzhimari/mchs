@@ -1,5 +1,5 @@
 export const article = `
-<img src="https://previews.dropbox.com/p/thumb/AA6XKr72XDvnggyYd7F30nNQsvm3aLTJSMGKUMS9jwOh-DoUAa-sCI-dZ-hVqF-g-U3bDIwiONql5Y3Nj7nJDCDCZegbD6Yv35a-WfYUnF3Tl2aj3HPeXWeqRSP0Zly5vzFpNM48v5EssFm3LrBJTXkziQW4pAhAbaX0wfRXCrB0ittvrTLMmFWsJV49bGRQO25xWqx1Y-0aOrO5pgsYB0Lxw_MErQqGQ4C3krSHyKJ4urEYJUfXwNARCIt4b0LbCpRCfvE-bKUOPB0M7iUrxj5wkUcbKgmuiXnIzPqn3PasB0cGHHs9aPCr6rTBqqLRQZoTDbE2VVtAm_yyE4Nga8-PMiq_TehLudkNCSfpbZ-2NA/p.jpeg?fv_content=true&size_mode=5" class="article-image" />
+<img src="./images/main.jpg" class="article-image" />
 <p>Учебный пункт ФГКУ «Отряд ФПС по Республике Дагестан» в городе Махачкала был организован на базе расформированного Учебного центра ОПО МВД ДАССР 1974 году. Штатная численность составляла – 7 единиц. Начальником Учебного пункта назначен капитан внутренней службы Демьяненко Эдуард Петрович.</p>
 <p>За первый год работы Учебного пункта в нём прошли обучение всего две категории слушателей: пожарные и водители. Уже в 1990 году проводилась не только курсовая подготовка пожарных, но и начальников караулов, командиров отделений, водителей пожарного автомобиля, переподготовку проходили офицеры и сержанты. Приступили и к подготовке гражданских специалистов - пожарно-техническому минимуму обучали рабочих и служащих.</p>
 <p>С 2002 года Учебный пункт входил состав ГПС МЧС Республики Дагестан.</p>
